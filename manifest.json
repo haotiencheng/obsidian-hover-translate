@@ -1,0 +1,10 @@
+{
+	"id": "hover-translate",
+	"name": "Hover Translate",
+	"version": "0.1.0",
+	"minAppVersion": "1.8.0",
+	"description": "Hover a word to see its translation; select a sentence to translate the whole sentence. Built for language learners.",
+	"author": "Project Stain",
+	"authorUrl": "https://github.com/haotiencheng",
+	"isDesktopOnly": false
+}
